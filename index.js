@@ -4,3 +4,7 @@ document.getElementById("content").innerHTML =
 
     document.getElementById("content").innerHTML +=
     " <br><p>Feature A: Login UI added</p>";
+
+
+    document.getElementById("content").innerHTML =
+    "<p>Feature in progress...</p>";
